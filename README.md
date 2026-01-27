@@ -1,4 +1,11 @@
 # 🖥️ Jira-Service-Desk-Lab (Virtualized)
 ## 📌 Project Overview
 # Windows Server Active Directory Lab (Virtualized)
-Simulated Tier 1 help desk lab using Jira Service Management, demonstrating ticket creation, prioritization, documentation, and resolution workflows.
+This project demonstrates hands-on experience using Jira Service Management to simulate Tier 1 help desk workflows.  
+Tasks include ticket creation, prioritization, documentation, escalation awareness, and resolution.
+
+## Key Skills Demonstrated
+- Incident and service request handling
+- Ticket prioritization and workflow management
+- Technical documentation
+- Customer-facing vs internal communication
