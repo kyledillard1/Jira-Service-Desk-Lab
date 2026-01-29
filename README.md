@@ -10,10 +10,8 @@ Tasks include ticket creation, prioritization, documentation, escalation awarene
 - Technical documentation
 - Customer-facing vs internal communication
 
-## 📸 Screenshots/Tickets
+## 📸 Screenshots
 This repository includes screenshots documenting:
 - Expired password troubleshooting
 - Offline printer troubleshooting
 - Ticket queue and resolution workflow
-
-  ➡️ See the `screenshots/` and 'tickets/' folder.
