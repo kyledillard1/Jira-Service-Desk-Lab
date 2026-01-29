@@ -1,0 +1,6 @@
+## Troubleshooting Steps
+- Verified printer status and network connectivity
+- Checked and cleared printer queue
+- Restarted Windows print spooler service
+- Reinstalled printer driver
+- Prefromed test print
