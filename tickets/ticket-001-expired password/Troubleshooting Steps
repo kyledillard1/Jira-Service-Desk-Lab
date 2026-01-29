@@ -1,0 +1,4 @@
+## Troubleshooting Steps
+- Verified user account statusn in Active Directory
+- Confirmed password expiration 
+- Reset user password using administrative privileges
