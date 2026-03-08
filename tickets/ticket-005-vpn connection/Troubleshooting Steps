@@ -1,0 +1,6 @@
+##Troubleshooting Steps
+-Verified user's VPN login credentials
+-Confirmed the user had an active internet connection
+-Reviewed VPN client configuration settings
+-Restarted the VPN client and attempted reconnection
+-Confirmed successful VPN connection and internal network access
